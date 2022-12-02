@@ -1,3 +1,5 @@
+Chao-BUDDY - Dev Chao
+
 Chao-Emerald - Emerald Chao - Requires 0 Emblems
 
 Chao-Ruby - Ruby Chao - Requires 0 Emblems
